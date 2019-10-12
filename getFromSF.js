@@ -16,7 +16,7 @@ var WoBoOptions = {
     qs: { 
         metric_id: '226910', 
         metric_data: 0,
-        metric_comment: "TestDataFromSFDC"
+        metric_comment: "TestDataFromSFDC-Josh"
     }
 };
 
@@ -33,6 +33,7 @@ let getOpportunityCount = async() => {
         }
         sendToWoBo();
     })
+    console.log("Done")
 }
 
 getOpportunityCount();
