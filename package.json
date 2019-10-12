@@ -1,0 +1,19 @@
+{
+  "name": "sftowobo",
+  "version": "1.0.0",
+  "description": "get data from sf object and publish to wobo key result",
+  "main": "getFromSF.js",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sftowobo"
+  },
+  "author": "josh brown",
+  "license": "ISC"
+}
