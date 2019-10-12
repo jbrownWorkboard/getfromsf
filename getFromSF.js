@@ -16,7 +16,7 @@ var WoBoOptions = {
     qs: { 
         metric_id: '226910', 
         metric_data: 0,
-        metric_comment: "TestDataFromSFDC-Josh"
+        metric_comment: "TestDataFromSFDC-FromHeroku"
     }
 };
 
