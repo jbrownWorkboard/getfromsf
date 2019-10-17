@@ -4,6 +4,7 @@
   "description": "get data from sf object and publish to wobo key result",
   "main": "getFromSF.js",
   "dependencies": {
+    "heroku": "^7.33.3",
     "request": "^2.88.0"
   },
   "devDependencies": {},
