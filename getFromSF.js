@@ -39,7 +39,7 @@ var SFQueryOptions = {
 
 var WoBoOptions = { 
     method: 'POST',
-    url: 'https://myworkboard.com/wb/apis/hook/27b674dd4ed5ea04fbf5ae0666b5fe089de9a792',
+    url: 'https://myworkboard.com/wb/apis/hook/',
     qs: { 
         metric_id: '226910', 
         metric_data: 0,
